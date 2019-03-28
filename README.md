@@ -2,7 +2,7 @@
 
 **WHAT I LEARN**
 
-A personal project in the Unity Engine scripted in Java Script. I am using this project to learn the basis of the Unity Engine and to learn the C# programming language. I also wanted to understand what the start of the game development process was like.
+A personal project in the Unity Engine scripted in C#. I am using this project to learn the basis of the Unity Engine and to learn the C# programming language. I also wanted to understand what the start of the game development process was like.
 
 I have learned what's look like the real game scripting and how to fix the errors you got for your script. Because while you are making a game you are facing with a lot of problems and it's really a good feeling to solve this problems after hours of searching and trying with yourself..
 
